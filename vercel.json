@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://idlegame-henna.vercel.app/",
+      "permanent": true
+    }
+  ]
+}
